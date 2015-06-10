@@ -1,8 +1,8 @@
 {
-  "name": "quase-tudo-aquilo-que-eu-queria-saber-antes-mesmo-de-comecar",
+  "name": "slide-talk-school",
   "version": "1.0.0",
   "description": "Slides from my talk about the Front-end Developer.",
-  "repository": "https://github.com/felipesousa/slides-front-end",
+  "repository": "https://github.com/felipesousa/slides-talk-school",
   "main": "index.js",
   "scripts": {
     "test": ""
