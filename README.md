@@ -1,4 +1,4 @@
-# Quase tudo que eu queria saber antes mesmo de começar
+
 
 Slides from my talk about as live of Front end Developer.
 
