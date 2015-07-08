@@ -29,7 +29,6 @@ gulp.task('js', function(){
 		.pipe(uglify())
 		.pipe(gulp.dest('build/js'))
 });
-
 // Call Stylus
 gulp.task('stylus', function(){
 		gulp.src('src/styl/main.styl')
