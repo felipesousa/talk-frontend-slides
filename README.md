@@ -1,5 +1,4 @@
 
-
 Slides from my talk about as live of Front end Developer.
 
 ## Tools
